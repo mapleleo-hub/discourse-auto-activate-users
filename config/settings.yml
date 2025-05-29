@@ -1,0 +1,5 @@
+plugins:
+  auto_activate_users_enabled:
+    default: true
+    client: true
+    description: "启用此设置将跳过用户注册时的邮件验证步骤，用户将在注册后自动激活。"
